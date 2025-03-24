@@ -44,7 +44,6 @@
   background-color: lightgreen;
 }
 
-/* ✅ Mobile Responsive Styles */
 @media screen and (max-width: 768px) {
   .slider-container {
     flex-direction: column;
